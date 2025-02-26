@@ -11,5 +11,4 @@ public class SpringAppController {
     public String sayHello(){
         return "Hello from BridgeLabz";
     }
-
 }
